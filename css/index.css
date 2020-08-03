@@ -134,3 +134,63 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+.artists-containerone{
+    display:flex;
+    justify-content: space-around;
+    width:80%;
+    margin:0 auto;
+}
+
+.artistone{
+    width:40%;
+    text-align:center;
+}
+.artistone img{
+    width:100%;
+}
+
+.artists-containertwo{
+    display:flex;
+    justify-content: space-around;
+    width:80%;
+    margin:0 auto;
+}
+
+.artisttwo{
+    width:40%;
+    text-align:center;
+}
+.artisttwo img{
+    width:100%;
+}
+
+.artists-containerthree{
+    display:flex;
+    justify-content: space-around;
+    width:80%;
+    margin:0 auto;
+}
+
+.artistthree{
+    width:40%;
+    text-align:center;
+}
+.artistthree img{
+    width:100%;
+}
+
+.artists-containerfour{
+    display:flex;
+    justify-content: space-around;
+    width:80%;
+    margin:0 auto;
+}
+
+.artistfour{
+    width:40%;
+    text-align:center;
+}
+.artistfour img{
+    width:100%;
+}
